@@ -1,3 +1,7 @@
+
+
+
+
 Se tiene un metodo que obtiene los roles si el usuario es correcto, internamente este metodo  llama a 2 metodos
 el primero verifica que el usuario es correcto (TRUE) o si es incorrecto (FALSE) , si el usuario es
 incorrecto el mensaje devuelto es : Incorrect USER and PWD, pero si el usuario es correcto  se debe llamar a otro
