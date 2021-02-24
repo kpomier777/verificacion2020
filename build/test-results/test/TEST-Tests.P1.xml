@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests.P1" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:11:35" hostname="DESKTOP-VBMVFV9" time="1.581">
+  <properties/>
+  <testcase name="primotest1" classname="Tests.P1" time="0.0"/>
+  <testcase name="primotest2" classname="Tests.P1" time="0.0"/>
+  <testcase name="primotest3" classname="Tests.P1" time="0.001"/>
+  <testcase name="primotest1" classname="Tests.P1" time="0.0"/>
+  <testcase name="primotest2" classname="Tests.P1" time="0.0"/>
+  <testcase name="primotest3" classname="Tests.P1" time="0.0"/>
+  <system-out><![CDATA[ *****Iniciando Testeo
+ Finalizando uno de tres test
+ Finalizando uno de tres test
+ Finalizando uno de tres test
+ ******Finalisando Testeo
+ Finalizando uno de tres test
+ Finalizando uno de tres test
+ Finalizando uno de tres test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

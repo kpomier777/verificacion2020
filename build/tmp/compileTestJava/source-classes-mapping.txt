@@ -1,4 +1,10 @@
+Tests/P6.java
+ Tests.P6
+Tests/P1.java
+ Tests.P1
 basicJunit/BasicJunit1.java
  basicJunit.BasicJunit1
-Tests/p1.java
- Tests.p1
+Tests/P2.java
+ Tests.P2
+Tests/P3.java
+ Tests.P3

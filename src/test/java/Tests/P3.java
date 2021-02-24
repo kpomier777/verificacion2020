@@ -7,7 +7,7 @@ import org.junit.Test;
 public class P3 {
 
 
-    @Test(timeout = 1000)
+    @Test(timeout = 2000)
     public void verify1() throws Exception {
         Ej3Utils ciclas = new Ej3Utils();
         boolean actResult = ciclas.isCorrectCI("4534534");
