@@ -3,7 +3,7 @@ package Tests;
 import filaB.p1.Ej1UtilsNumeros;
 import org.junit.*;
 
-public class p1 {
+public class P1 {
     @BeforeClass
     public static void beforeClass(){
         System.out.println(" *****Iniciando Testeo");
