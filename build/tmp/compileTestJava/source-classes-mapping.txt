@@ -1,4 +1,4 @@
 basicJunit/BasicJunit1.java
  basicJunit.BasicJunit1
-prueba.java
- prueba
+Tests/p1.java
+ Tests.p1

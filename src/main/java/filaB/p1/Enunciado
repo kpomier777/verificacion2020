@@ -1,0 +1,8 @@
+Se tiene un metodo para verificar si un numero es primo o no
+
+● 5% crear unit test usando el Before, After, Beforeclass , AfterClass (3 unit test)
+
+
+5 true
+4 flase
+2 true

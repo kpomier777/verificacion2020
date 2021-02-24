@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="basicJunit.BasicJunit1" tests="5" skipped="1" failures="1" errors="0" timestamp="2021-02-24T11:05:32" hostname="DESKTOP-VBMVFV9" time="0.007">
+<testsuite name="basicJunit.BasicJunit1" tests="5" skipped="1" failures="1" errors="0" timestamp="2021-02-24T12:11:32" hostname="DESKTOP-VBMVFV9" time="0.017">
   <properties/>
-  <testcase name="verify_some_thing" classname="basicJunit.BasicJunit1" time="0.001"/>
+  <testcase name="verify_some_thing" classname="basicJunit.BasicJunit1" time="0.004"/>
   <testcase name="verify_some_thing2" classname="basicJunit.BasicJunit1" time="0.0"/>
   <testcase name="verify_some_thing3" classname="basicJunit.BasicJunit1" time="0.0">
     <skipped/>
   </testcase>
-  <testcase name="verify_some_thing4" classname="basicJunit.BasicJunit1" time="0.002"/>
-  <testcase name="verify_some_thing5" classname="basicJunit.BasicJunit1" time="0.001">
+  <testcase name="verify_some_thing4" classname="basicJunit.BasicJunit1" time="0.006"/>
+  <testcase name="verify_some_thing5" classname="basicJunit.BasicJunit1" time="0.003">
     <failure message="java.lang.AssertionError: Expected exception: java.lang.ArithmeticException" type="java.lang.AssertionError">java.lang.AssertionError: Expected exception: java.lang.ArithmeticException
 	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:32)
 	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
